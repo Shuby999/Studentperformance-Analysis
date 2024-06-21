@@ -1,0 +1,6 @@
+Numpy
+pandas-datareader
+seaborn
+plotly
+streamlit
+skilearn
